@@ -1,0 +1,37 @@
+---
+title: "재현가능한 논문"
+description: |
+  대한민국 과학기술 논문 생산성을 높일 수 있는 대안을 제시합니다.
+author:
+  - name: 이광춘 / 김호성 / 유충현
+    url: https://r2bit.com/
+    email: admin@r2bit.com
+    affiliation: 한국 R 사용자회
+    affiliation_url: https://r2bit.com/
+date: "`r Sys.Date()`"
+titlerunning: Short form of title (if too long for head)
+authorrunning: Short form of author list if too long for running head
+keywords:
+- 웹출판
+- hwp
+- 재현성
+- 과학기술
+- 논문작성
+
+abstract: |
+  HWP 아래한글은 과학기술 출판의 걸림돌로 인식되어 디지털 전환이 가속화되고 있는 지금 그 대안을 제시합니다.
+
+bibliography: bibliography.bib
+bibstyle: spphys
+output: rticles::springer_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+과학기술 논문 
+
+
+[springer](https://www.e-publications.org/springer/support/spr-chicago.html)
+
