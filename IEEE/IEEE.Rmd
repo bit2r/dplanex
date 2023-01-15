@@ -1,5 +1,5 @@
 ---
-title: 재현가능 과학기술 논문
+title: Reproducible data science
 affiliation:
   ## use one only of the following
   # author-columnar: true         ## one column per author
@@ -34,13 +34,13 @@ affiliation:
   #      mark: 4
 
   institution:
-    - name: 한국 R 사용자회
+    - name: Korea R User Group
       department: School of Electrical and Computer Engineering
       location: Atlanta, Georgia 30332--0250
       email: ece@datech.edu
       mark: 1
       author:
-        - name: 이광춘
+        - name: Kwangchun Lee
     - name: Twentieth Century Fox
       location: Springfield, USA
       mark: 2

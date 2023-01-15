@@ -34,7 +34,11 @@ preamble: |
 # tex file. Don't forget to rename the bib file and change this example value.
 bibliography: RJreferences.bib
 
-output: rticles::rjournal_article
+output: 
+  rticles::rjournal_article:
+    latex_engine: xelatex
+    includes:
+      in_header: cjk.tex
 ---
 
 ## Introduction
